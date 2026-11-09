@@ -1,5 +1,5 @@
 # Hi, I'm Isa 👋
-[View my résumé (PDF)](./Isabela_Garza_Resume.pdf)
+[My Resume(PDF)](./Isabela_Garza_Resume.pdf)
 
 ## About me
 - 💻 CS/AI graduate student at Boston University. I earned my B.S. in CS at UT Austin, where I also studied robotics and sociology
