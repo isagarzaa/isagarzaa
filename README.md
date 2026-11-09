@@ -4,7 +4,7 @@
 - 💻 CS/AI graduate student at Boston University. I earned my B.S. in CS at UT Austin, where I also studied robotics and sociology
 - 🦾 I'm interested in computer vision, AI/ML, systems programming, and how robots can adapt to the way people move/how they can be assistive devices.
 - 🧠 I'm working on developing my Python and OpenCV skills
-- 🪐 Robotics projects and full stack work are what I enjoy most! At UT Austin's Human-Centered Robotics Lab, I trained a simulated robot to reorient itself in zero gravity using NVIDIA Isaac Lab. I also helped build SoundVault, a Swift iOS app where friends can find albums and share reviews.
+- 🪐 Robotics projects and full stack work are what I enjoy most! At UT, I trained a simulated robot to reorient itself in zero gravity. I also helped build SoundVault, a Swift iOS app where friends can find albums and share reviews.
 - 🫂 I want to build assistive robots that adjust their support as a person's movement changes, helping them move more independently.
 <!--
 **isagarzaa/isagarzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
