@@ -1,7 +1,7 @@
 # Hi, I'm Isa 👋
-[📄 My resume](./Isabela_Garza_Resume.pdf)
+[📄 My résumé](./Isabela_Garza_Resume.pdf) · [🔗 LinkedIn](https://www.linkedin.com/in/isabelagarza)
 
-## About me
+
 - 💻 CS/AI graduate student at Boston University. I earned my B.S. in CS at UT Austin, where I also studied robotics and sociology.
 - 🦾 I'm interested in computer vision, AI/ML, systems programming. In robotics, I'm enjoy learning how robots can adapt to the way people move.
 - 🧠 I'm working on developing my Python and OpenCV skills
